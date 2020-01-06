@@ -1,2 +1,3 @@
 # dev-instensiv-2019
-hello!
+git remote -v
+
